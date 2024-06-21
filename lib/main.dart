@@ -15,10 +15,6 @@ final _router = GoRouter(
       builder: (context, state) => Home(),
     ),
     GoRoute(
-      path: '/details',
-      builder: (context, state) => Details(),
-    ),
-    GoRoute(
       path: '/bookmarked',
       builder: (context, state) => Bookmarked(),
     ),
