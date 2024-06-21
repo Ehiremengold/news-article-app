@@ -45,3 +45,5 @@ app.*.map.json
 # Android related
 .gradle/
 local.properties
+
+.vscode
