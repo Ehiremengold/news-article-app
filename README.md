@@ -62,14 +62,13 @@ NewsApp is a Flutter application that displays the latest news articles. It incl
 
 ```bash
 lib/
-├── main.dart             # Entry point of the application
-├── home.dart             # Home screen with a list of articles
-├── detail_page.dart      # Detail page for each article
+├── main.dart          # Entry point of the application
+├── pages/
+│   ├── home.dart      # Home screen with a list of articles
+│   └── details.dart   # Detail page for each article
 ├── data/
-│   ├── article.dart      # Article model
-│   └── news.dart         # News data provider
-├── widgets/
-│   └── google_nav_bar.dart # Bottom navigation bar
+│   ├── article.dart   # Article model
+│   └── news.dart      # News data provider
 ```
 
 ### Contact
