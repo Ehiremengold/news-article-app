@@ -13,6 +13,7 @@ NewsApp is a Flutter application that displays the latest news articles. It incl
 - Detail page for each article with a Hero transition for images.
 <p class="center">
   <img src="assets/appScreenshots/detail.jpg" alt="Detail page" width="300px">
+   <img src="assets/appScreenshots/detail-2.jpg" alt="Detail page" width="300px">
 </p>
 
 - Bottom navigation bar for easy navigation.
